@@ -83,3 +83,17 @@ We are not liable for any damages or losses that may result from your use of thi
 Please use this project at your own risk.
 
 We reserve the right to modify this disclaimer at any time.
+
+---
+
+## 🧩 Ecosystem Integrations
+
+**Projects building with or inspired by Elusiv’s privacy primitives:**
+
+- **Shady** — Solana privacy toolkit focused on private transactions and ZK-based access layers.  
+  Features include **Stealth Address**, **ZK Gate (view key)**, and **Private Swap** (Raydium aggregator + ZK access layer).  
+  🌐 Website: [https://www.shady.to](https://www.shady.to)  
+  📘 Docs: [https://shadylabs.gitbook.io/shadylabs-docs/](https://shadylabs.gitbook.io/shadylabs-docs/)  
+  💬 Twitter: [https://x.com/Shady_Labs](https://x.com/Shady_Labs)
+  💻 GitHub: [https://github.com/shadylabdev/shady](https://github.com/shadylabdev/shady)
+
